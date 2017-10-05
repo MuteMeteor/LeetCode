@@ -15,13 +15,14 @@ Five tags：array，string，tree，linkedlist，math
 
 
 ## Algorithms
+- Sort
 - Math
 - BitManipulation
 - Dynamic Programming
 - Depth-first Search
 - Breadth-first Search
-- Sort
-- Greedy
+
+
 
 ## Database
 - SQL
