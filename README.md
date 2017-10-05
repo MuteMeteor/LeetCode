@@ -3,15 +3,12 @@
 Five tags：array，string，tree，linkedlist，math
 
 ## DataStructure
-### Linear
 - Linked List
 - String
 - Array
 - Hash Table
 - Stack
 - Queue 
-
-### Nonlinear
 - Tree
 - Binary Tree
 - Binary Search Tree
