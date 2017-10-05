@@ -15,11 +15,11 @@ Five tags：array，string，tree，linkedlist，math
 - Tree
 - Binary Tree
 - Binary Search Tree
-- Segment tree
-- Graph
+
 
 ## Algorithms
 - Math
+- BitManipulation
 - Dynamic Programming
 - Depth-first Search
 - Breadth-first Search
