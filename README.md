@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/)  ![](https://img.shields.io/badge/language-Java/Python-blue.svg) ![](https://img.shields.io/badge/license-MIT-brightgreen.svg) 
+# [LeetCode](https://leetcode.com/problemset/algorithms/)  ![](https://img.shields.io/badge/language-Python-blue.svg) ![](https://img.shields.io/badge/license-MIT-brightgreen.svg) 
 
 Five tags：array，string，tree，linkedlist，math
 
