@@ -2,27 +2,23 @@
 
 Five tags：array，string，tree，linkedlist，math
 
-## DataStructure
-- Linked List
-- String
+## Algorithms
+
 - Array
-- Hash Table
-- Stack
-- Queue 
-- Tree
 - Binary Tree
 - Binary Search Tree
-
-
-## Algorithms
-- Sort
-- Math
 - BitManipulation
-- Dynamic Programming
-- Depth-first Search
 - Breadth-first Search
-
-
+- Depth-first Search
+- Dynamic Programming
+- Hash Table
+- Linked List
+- Math
+- Queue 
+- Sort
+- Stack
+- String
+- Tree
 
 ## Database
 - SQL
