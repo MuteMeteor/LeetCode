@@ -31,4 +31,4 @@ Five tags：array，string，tree，linkedlist，math
 
 | #	   | Title    | Solution   | Add Date	|    Difficulty |
 | ---- |:--------:| :--------: |:--------: |:--------: |
-|   1	 |  Two Sum  | Java       | 2017/10/5   | Medium ||
+|   1	 |  Two Sum  | Python       | 2017/10/5   | Medium ||
