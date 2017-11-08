@@ -24,9 +24,9 @@
 
 ## Soluton (Qusetion No.)
 
-| #	   | Title    | Solution   | Add Date	|    Difficulty |
-| ---- |:--------:| :--------: |:--------: |:--------: |
-|  LeetCode	#1	 |             |           |         |       ||
+| #	   | Title    | Solution   | Add Date	|    Difficulty |  Tag       |
+| ---- |:--------:| :--------: |:--------: |:--------:    |:--------:   |
+|   	 |          |           |           |              |             ||
 LeetCode	#1	Two Sum	Python
 LeetCode	#2	Add Two Numbers	Python
 LeetCode	#3	Longest Substring Without Repeating Characters	Python
