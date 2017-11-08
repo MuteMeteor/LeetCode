@@ -26,8 +26,8 @@
 
 | #	   | Title    | Solution   | Add Date	|    Difficulty |
 | ---- |:--------:| :--------: |:--------: |:--------: |
-|   1	 |  Two Sum  | Python       | 2017/10/5   | Medium ||
-1	Two Sum	Python
+|  LeetCode	#1	 |             |           |         |       ||
+LeetCode	#1	Two Sum	Python
 LeetCode	#2	Add Two Numbers	Python
 LeetCode	#3	Longest Substring Without Repeating Characters	Python
 LeetCode	#5	Longest Palindromic Substring	Python
